@@ -33,5 +33,10 @@
     5. pink
     6. orange
       
+  **Creation of a table using markdown syntax**
+  
+  Table 1 | Table 2 | Table 3
+  --------|---------|--------
+  S.No|Name|Roll No
   
   
