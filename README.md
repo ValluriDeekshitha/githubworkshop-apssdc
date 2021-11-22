@@ -16,12 +16,22 @@
   
   ![apssdc](https://www.superthirty.com/wp-content/uploads/2019/10/APSSDC1.png)
   
+  *How to crete an unorder list*
   * fruits
     * kiwi
     * mango
     * orange
     * banana
     * apples
+
+***How to create a ordered list***
+1.  Colours
+    1. blue
+    2. green
+    3. yellow
+    4. red
+    5. pink
+    6. orange
       
   
   
