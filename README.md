@@ -41,4 +41,13 @@
   
   ***mastering github syntax is a site where we can learn/know about syntax***
   
+  ~~Strike through syntax~~
+  
+  Some basic git commands are
+  ```
+  git status
+  git add
+  git commit
+  ```
+  
   
