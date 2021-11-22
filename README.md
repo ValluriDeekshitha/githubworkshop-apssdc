@@ -12,7 +12,11 @@
   
   ***Trible astric is used for both bold and italic***
   
+  *How to upload a link*
+  
   [google](https://www.google.com/)
+  
+  ***How to upload an image with it's address***
   
   ![apssdc](https://www.superthirty.com/wp-content/uploads/2019/10/APSSDC1.png)
   
@@ -43,11 +47,18 @@
   
   ~~Strike through syntax~~
   
-  Some basic git commands are
+  Some basic git commands are                      
   ```
   git status
   git add
   git commit
   ```
+  **Nested list**
+  1. First list item
+   - First nested list item
+     - Second nested list item
+     - hii
+     - hello
+     - how do u do
   
   
